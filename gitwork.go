@@ -8,7 +8,7 @@ func main() {
 }
 
 func somes() {
-
+	fmt.Println("Работаю с Гитом")
 }
 
 func soms2() {
