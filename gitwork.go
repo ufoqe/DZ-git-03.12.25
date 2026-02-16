@@ -2,15 +2,19 @@ package main
 
 import "fmt"
 
-func main (){
+func main() {
 
 	fmt.Println("Hello world")
 }
 
-func somes(){
+func somes() {
 
 }
 
-func soms2(){
-	
+func soms2() {
+
+}
+
+func soms3() {
+
 }
